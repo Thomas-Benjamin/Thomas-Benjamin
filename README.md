@@ -1,4 +1,4 @@
-## Olá, me chamo SeuNomeAqui ! 
+## Olá, me chamo Thomas Benjamin! 
 ### Bem vindo ao meu perfil GitHub 👋
 <!---
 Thomas-Benjamin/Thomas-Benjamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
