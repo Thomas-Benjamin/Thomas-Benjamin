@@ -18,9 +18,11 @@
  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="40" height="40" />
 </div>
 
-div.box{
+<style>
+div.box {
   display: inline-block;
 }
+</style>
 
 ### Contatos:
 
