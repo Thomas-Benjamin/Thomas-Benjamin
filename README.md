@@ -7,9 +7,20 @@
 - ⚡ Curiosidade: Curto muito sistemas operacionais como o Android e desde pequeno eu adoro assistir as apresentações das Big Techs e ficar por dentro das novidades
 
 ### Estou Aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-<img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="40" height="40" />
-<img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="40" height="40" />
+
+<div class="box">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+</div>
+<div class="box">
+ <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="40" height="40" />
+</div>
+<div class="box">
+ <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="40" height="40" />
+</div>
+
+div.box{
+  display: inline-block;
+}
 
 ### Contatos:
 
