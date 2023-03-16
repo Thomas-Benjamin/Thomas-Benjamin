@@ -11,12 +11,6 @@
 <div class="box">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 </div>
-<div class="box">
- <img src="https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg" width="40" height="40" />
-</div>
-<div class="box">
- <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="40" height="40" />
-</div>
 
 ### Contatos:
 
